@@ -1,0 +1,16 @@
+
+[01/04/16-14:29:02] [On ] Sig {5b419168-2f04-4346-8bbd-cc673b6a4797} Other:Win/SimplifiImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:29:02] [On ] Sig {30ec694c-88fe-4c8f-a3de-c53d971fcfb9} Other:Win/SimplifiClk.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:29:02] --Signature list end--
+[01/04/16-14:29:02] Signatures: Total: 110;  Enabled: 108
+[01/04/16-14:29:02] Active signature breakdown: BM: 108; ZeroDay-Block: 0; ZeroDay-Detect: 0; ZeroDay-Detect-Inline: 0
+[01/04/16-14:29:02] New engine version=2.1.11804.0; New signature version=115.28.0.0
+[01/04/16-14:40:07] Signature update - files received: Engine version: 2.1.11804.0; Signature version = 115.28.0.0
+[01/04/16-14:40:07] --Signature list start--
+[01/04/16-14:40:07] [On ] Sig {2e008210-b6b9-405f-84b5-94a468eab6f7} Other:Win/AdflyClickFraud.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:40:07] [On ] Sig {387dc41e-eceb-4349-a1bb-cc732ee16366} Other:Win/AdknowledgeClick.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:40:07] [On ] Sig {98fc2ed0-1a01-4940-8895-b782084dfc24} Other:Win/Beebone.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:40:07] [On ] Sig {0ba185cf-007f-468f-b01e-e83c6f60a829} Other:Win/BIFROSE.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:40:07] [On ] Sig {54d50bad-f698-4ff9-9a53-1f678bd39a48} Other:Win/BingAdClick.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-14:40:07] [On ] Sig {69055c7c-acc5-4b54-9821-09138dec7d5b} Other:Win/BladabindiCustom!NIS-0000-0000 - 
+[0

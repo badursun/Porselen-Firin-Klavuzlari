@@ -1,0 +1,42 @@
+eadingModel,,"Both"
+
+[ESWIAUD.x64.AddReg]
+HKR,,DevLoader,,*NTKERN
+HKR,,USDClass,,"{580A2401-9E98-4a8a-BEC5-94173FEE8968}"
+HKCR,CLSID\{580A2401-9E98-4a8a-BEC5-94173FEE8968},,,"EPSON USD"
+HKCR,CLSID\{580A2401-9E98-4a8a-BEC5-94173FEE8968}\InProcServer32,,,%11%\esxwiaud.dll
+HKCR,CLSID\{580A2401-9E98-4a8a-BEC5-94173FEE8968}\InProcServer32,ThreadingModel,,"Both"
+
+[ESWIA2UD.AddReg]
+HKR,,DevLoader,,*NTKERN
+HKR,,USDClass,,"{511F3F20-732C-41f3-B413-07DA0EC825C5}"
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5},,,"EPSON USD"
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5}\InProcServer32,,,%11%\esw2ud.dll
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5}\InProcServer32,ThreadingModel,,"Both"
+
+[ESWIA2UD.x64.AddReg]
+HKR,,DevLoader,,*NTKERN
+HKR,,USDClass,,"{511F3F20-732C-41f3-B413-07DA0EC825C5}"
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5},,,"EPSON USD"
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5}\InProcServer32,,,%11%\esxw2ud.dll
+HKCR,CLSID\{511F3F20-732C-41f3-B413-07DA0EC825C5}\InProcServer32,ThreadingModel,,"Both"
+
+[USB.IF.AddReg]
+HKR,,HardwareConfig,1,4
+
+[ESCAN.AddReg] ; Model dependent
+HKLM,%RegSection%,"Version",0x00010001 ,0x00010000
+HKLM,%RegSection%,"Hardware File",,"ES00E2.HRD"
+HKLM,%RegSection%,"Supported",,"EPSON L355/L358"
+
+[ESCAN.x64.AddReg] ; Model dependent
+HKLM,%RegSection.x64%,"Version",0x00010001 ,0x00010000
+HKLM,%RegSection.x64%,"Hardware File",,"ES00E2.HRD"
+HKLM,%RegSection.x64%,"Supported",,"EPSON L355/L358"
+
+;--------------------------------------------------------------------------------
+
+[ESWIAUD.USD.Files]
+eswiaud.dll,,,32
+
+[ESWIAUD.x64.USD.Fil

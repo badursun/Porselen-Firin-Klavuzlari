@@ -1,0 +1,4 @@
+chedLocationTimeout 120.000000 location age 188.442241secs, lifeSpan -1.000000 accuracy 1414.000000(highAccReq 1), isValid 0
+ 4/06/2016  5:14:28.641 WiFiLocationServiceManagerIsLocationValid: cachedLocationTimeout 120.000000 location age 188.442297secs, lifeSpan -1.000000 accuracy 1414.000000(highAccReq 0), isValid 1
+ 4/06/2016  5:14:28.641 __WiFiLocationServiceManagerProcessLocationAvailableEvent: isValidHighAccuracyLocation 0,  isValidLowAccuracyLocation 1
+ 4/06/2016  5:14:28.641 __WiFiLocationServiceMana

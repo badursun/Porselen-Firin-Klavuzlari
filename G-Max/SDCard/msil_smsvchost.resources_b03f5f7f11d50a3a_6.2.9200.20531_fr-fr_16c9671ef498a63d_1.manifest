@@ -1,0 +1,13 @@
+er:Win/WALEDAC.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {ecfaaf2a-e527-4537-90de-32af3a723440} Other:Win/WINWEBSEC.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {198df45f-dc5a-408d-b8e2-7671b67fa535} Other:Win/WuCall.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {7819b4af-3b7d-47c4-999a-3e0254739da1} Other:Win/XTRAT.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {17b5a0b2-7d7e-40a2-848b-c09a9a84c3b9} Other:Win/ZBOT.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {7d299124-5ed1-4be4-942f-07b7aa8a9d7c} Other:Win/ZEGOST.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {bdad9ae3-1cb0-4849-a5da-94c25f554f71} Other:Win/ZegostGenTcpStreamCustom!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {6e4d2f4c-2d44-4aa8-8857-514cc2eec83b} Other:Win/ZegostTcpStreamCustom!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {078d1c6d-456a-40c5-95ff-e710e0e67f22} Other:Win/ZWANGI.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {284c3520-fcd8-44a5-82ed-297ba7d4808c} Other:Win/Malagent.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {47d6ccfc-14df-4325-8e6e-ab70f33f63f3} Other:Win/Tuscrape.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {894cf0e5-c2b7-4dfc-ad6e-018e7107d527} Other:Win/Ogimant.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:58:20] [On ] Sig {24eda918-dfa6-4e7a-badc-7b85dd20a145} Other:Win/WinntiCert.HTTP.HTTP!NIS-000

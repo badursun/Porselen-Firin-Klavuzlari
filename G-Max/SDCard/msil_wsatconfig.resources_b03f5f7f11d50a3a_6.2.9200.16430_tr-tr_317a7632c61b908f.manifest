@@ -1,0 +1,28 @@
+:22.095
+     ump: Device install enabled and idle. 13:15:22.095
+<<<  Section end 2015/12/19 13:15:22.095
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Device Install (Hardware initiated) - SWD\WPDBUSENUM\_??_USBSTOR#Disk&Ven_SMI&Prod_USB_DISK&Rev_1100#6&10f45e84&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}]
+>>>  Section start 2015/12/19 13:15:22.142
+     dvi: {Build Driver List} 13:15:22.236
+     dvi:      Searching for compatible ID(s):
+     dvi:           wpdbusenum\fs
+     dvi:           swd\generic
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - wpdbusenum\fs
+     dvi:           InfName      - C:\WINDOWS\System32\DriverStore\FileRepository\wpdfs.inf_amd64_3baf9736edf2c848\wpdfs.inf
+     dvi:           DevDesc      - WPD Dosya Sistemi Birim Sürücüsü
+     dvi:           Section      - Basic_Install
+     dvi:           Rank         - 0x00ff2000
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 06/21/2006
+     dvi:           Version      - 10.0.10586.0
+     dvi: {Build Driver List - exit(0x00000000)} 13:15:22.267
+     dvi: {DIF_SELECTBESTCOMPATDRV} 13:15:22.267
+     dvi:      Using exported function 'WpdClassInstaller' in module 'C:\WINDOWS\system32\wpd_ci.dll'.
+     dvi:      Class installer == wpd_ci.dll,WpdClassInstaller
+     dvi:      Class installer: Enter 13:15:22.282
+     dvi:      Class installer: Exit
+     dvi:      Default installer

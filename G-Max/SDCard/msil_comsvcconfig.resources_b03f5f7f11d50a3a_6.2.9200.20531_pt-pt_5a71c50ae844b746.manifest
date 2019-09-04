@@ -1,0 +1,20 @@
+vi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 16:19:33.799
+     ndv: Waiting for previous device install to complete. 16:19:33.799
+     ndv: {Core Device Install} 16:19:49.146
+     ndv:      {Install Device - PCI\VEN_8086&DEV_1E26&SUBSYS_00011179&REV_04\3&11583659&0&E8} 16:19:49.146
+     ndv:           Parent device: ACPI\PNP0A08\0
+     sto:           {Configure Driver Package: C:\WINDOWS\System32\DriverStore\FileRepository\pantusb.inf_amd64_e202f13feac690f3\pantusb.inf}
+     sto:                Source Filter  = pci\ven_8086&dev_1e26
+     inf:                Class GUID     = {36fc9e60-c465-11cf-8056-444553540000}
+     inf:                Class Options  = Configurable BootCritical
+     inf:                {Configure Driver: Intel(R) 7 Serisi/216 Yonga Kümesi Ailesi USB Geliþmiþ Ana Bilgisayar Denetleyicisi - 1E26}
+     inf:                     Section Name = INTEL_USB2.NT
+     inf:                     {Add Service: usbehci}
+     inf:                          Start Type    = 3
+     inf:                          Service Type  = 1
+     inf:                          Error Control = 1
+     inf:                          Image Path    = \SystemRoot\System32\drivers\usbehci.sys
+     inf:                          Display Name  = Microsoft USB 2.0 Geliþmiþ Ana Bilgisayar Denetleyicisi Miniport Sürücüsü
+     inf:                          Group         = Base
+    

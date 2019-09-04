@@ -1,0 +1,14 @@
+8:51] [On ] Sig {cedfcb75-51cb-4f5c-9f4f-3513109e087b} Other:Win/DoubleClickMob.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {2be18879-e1b2-421d-bd58-ba1d7f002b89} Other:Win/MobileGenImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {52f5922e-c33c-408e-b194-577a310a2ada} Other:Win/RubiconImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {c9b7e661-c818-4177-bc9a-273e5958c073} Other:Win/GoogleClick.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {baa3b342-2486-4877-92a3-fd2ac75205d3} Other:Win/GoogleImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {59a97b9d-b9f4-49d2-8e07-f6aab66e3d05} Other:Win/YahooClick.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {f60d9da0-2863-49c5-98ee-672cd92df19a} Other:Win/YahooImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {14e0ea00-37fe-4109-bd78-1cef72adf272} Other:Win/SimplifiCollect.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {5b419168-2f04-4346-8bbd-cc673b6a4797} Other:Win/SimplifiImp.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] [On ] Sig {30ec694c-88fe-4c8f-a3de-c53d971fcfb9} Other:Win/SimplifiClk.HTTP.HTTP!NIS-0000-0000 - 
+[01/04/16-13:18:51] --Signature list end--
+[01/04/16-13:18:51] Signatures: Total: 110;  Enabled: 108
+[01/04/16-13:18:51] Active signature breakdown: BM: 108; ZeroDay-Block: 0; ZeroDay-Detect: 0; ZeroDay-Detect-Inline: 0
+[01/04/16-13:18:51] New engine
